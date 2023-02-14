@@ -1,0 +1,1 @@
+Hello world shell_redirections
